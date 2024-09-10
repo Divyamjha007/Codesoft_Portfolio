@@ -389,7 +389,7 @@ section{
     width: 90%;
 }
 .skills .skills-text .column-right .javascript::before{
-    width: 70%;
+    width: 80%;
 }
 .skills .skills-text .column-right .react::before{
     width: 60%;
@@ -404,10 +404,10 @@ section{
     width: 50%;
 }
 .skills .skills-text .column-right .c::before{
-    width: 80%;
+    width: 70%;
 }
 .skills .skills-text .column-right .python::before{
-    width: 70%;
+    width: 60%;
 }
 .skills .skills-text .column-right .MySQL::before{
     width: 50%;
